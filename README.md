@@ -1,2 +1,2 @@
-# eNXhop
-Nintendo Switch CDN title installer, based on Rei's BogInstaller (evolution of eXhop)
+# NSPower - Switch title installer/manager (evolution of eNXhop)
+NSPower is the evolution of eNXhop, with extra features. Source code is still private.
